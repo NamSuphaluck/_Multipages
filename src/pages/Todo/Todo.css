@@ -1,0 +1,12 @@
+.todo-container {
+    border: 1px solid;
+    text-align: center;
+}
+.todo-filter-container {
+    font-display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* .form-select{
+    
+} */

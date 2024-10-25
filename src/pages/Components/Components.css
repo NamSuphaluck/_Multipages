@@ -1,0 +1,23 @@
+.components-container{
+    border: 1px solid black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    background-color: cadetblue;
+}
+
+.App-title {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    padding-bottom: 0.5rem;
+    margin-top: 0.5rem;          
+}
+
+.App-components {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    gap: 0.5rem;
+    padding-bottom: 0.5rem;
+}

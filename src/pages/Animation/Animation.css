@@ -1,0 +1,11 @@
+#field {
+    border: 1px solid black; 
+    overflow: hidden; 
+  }
+  
+  #ball {
+    position: absolute; 
+    background-color: blue; 
+    border-radius: 50%; 
+  }
+  

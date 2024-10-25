@@ -1,0 +1,15 @@
+.temperatures-container {
+    padding: 20px;
+}
+
+.temperatures-title {
+    margin-bottom: 10px;
+}
+
+.temperatures-display {
+    margin-bottom: 20px;
+}
+
+.variable-container {
+    margin: 10px 0;
+}

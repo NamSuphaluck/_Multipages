@@ -1,0 +1,18 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .info-container {
+    margin-top: 20px;
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .profile-picture {
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
